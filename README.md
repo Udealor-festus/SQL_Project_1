@@ -114,8 +114,6 @@ Most In-Demand Skills
 
 
 # What I Learned
-Through this project, I significantly strengthened my SQL and analytical skills:
-# What I Learned
 
 Through this project, I significantly strengthened my SQL and analytical skills, including:
 
